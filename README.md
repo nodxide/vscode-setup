@@ -39,18 +39,16 @@ The setup focuses on a minimal interface, keyboard-driven navigation, consistent
 
 ## Requirements
 
-- Visual Studio Code.
+- [Visual Studio Code](https://code.visualstudio.com/).
 - Linux with a compatible integrated terminal shell. The configuration selects Fish as the default Linux shell.
 - Recommended fonts:
-  - Iosevka or Iosevka Term.
-  - JetBrains Mono or JetBrainsMono Nerd Font.
+  - [Iosevka + Iosevka Term(*main)](https://typeof.net/Iosevka/).
+  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+  - [JetBrains Mono Nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.1/JetBrainsMono.zip).
 - Relevant extensions and themes:
   - [Prettier — Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - Flow You file icon theme.
-  - Fluent Icons product icon theme.
-  - TODO Tree, if you use its keybinding.
-  - Dart, if you use the Dart launch command.
-  - Claude Code, if you use its extension-specific keybinding.
+  - [Flow icon theme](https://flow-icons.pages.dev/).
+  - [Fluent Icons product icon theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons).
 
 Install only the extensions you need. Shortcuts associated with extensions will not work if their commands are unavailable.
 
